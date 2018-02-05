@@ -2,7 +2,7 @@
 ## SIG - Sentiment WEB
 *******************
 
-Sentiment Web adalah project SIG sekaligus pelengkap tugas akhir kami pada pelajaran pelajaran SIG
+Sentiment Web adalah project SIG sekaligus pelengkap tugas akhir kami pada pelajaran SIG
 
 *******************
 Tools

@@ -25,6 +25,8 @@ Cara Menjalankan
 3. Buat database dengan nama 'sig_sentiment'
 4. Import datatabase yang terdapat pada folder '/database'
 5. Buka url http://127.0.0.1/sig_project
+6. Crawling data twitter dengan menjalankan script python yang terdapat di folder 'python_sentiment'
+7. Data hasil crawling akan tersave ke dalam database
 6. Done :*
 
 ****************************

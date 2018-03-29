@@ -9,10 +9,10 @@ from time import sleep
 from textblob import TextBlob
 import MySQLdb
 
-consumer_key = 'uMpSbnQBbsqr1Jbqm55snylWt'
-consumer_secret = 'rY83cUncGBiYK7i4HjlLs7x4EYVqlXWxyGkok2UWMNhWnLa7kK'
-access_token = '905053664942764032-xz58kxIcjZAzDfMpaN8oyvyBRMJzHte'
-access_token_secret = 'qvcfzCKMACTkYwRbAzzMyx9rSmXJEupJyzxqAEe248UXv'
+consumer_key = 'your_consumer_key'
+consumer_secret = 'your_consumer_secret'
+access_token = 'your_access_token'
+access_token_secret = 'your_access_token_secret'
 
 try:
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
